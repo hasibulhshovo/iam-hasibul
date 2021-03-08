@@ -9,7 +9,7 @@
 <!-- About -->
 <div align="left">
    <h2>About me:</h2>
-   <p style="text-align:justify">I am currently working at <a href="https://www.facebook.com/careerportalbd"><b>Career Portal.</b></a> I love creative things. I love to explore technologies and learn new things. I am interested in <b>Natural Language Processing (NLP), Computer Vision etc.</b> I am currently learning stuffs like <b>Python, Machine Learning etc.</b></p>
+   <p>I am currently working at <a href="https://www.facebook.com/careerportalbd"><b>Career Portal.</b></a> I love creative things. I love to explore technologies and learn new things. I am interested in <b>Natural Language Processing (NLP), Computer Vision etc.</b> I am currently learning stuffs like <b>Python, Machine Learning etc.</b></p>
 </div>
 
 <br>
@@ -17,12 +17,11 @@
 <!-- Social Platforms -->
 <div>
    <h2>Connect with me:</h2>
-   <code><a href="mailto:it.hhs19@gmail.com"><img height="30" src="assets/gmail.svg"></a></code>
-   <code><a href="https://www.facebook.com/iam.hasibul"><img height="30" src="assets/facebook.svg"></a></code>
+   <code><a href="mailto:it.hhs19@gmail.com"><img height="30" src="assets/gmail.png"></a></code>
    <code><a href="https://www.facebook.com/iam.hasibul"><img height="30" src="assets/facebook.svg"></a></code>
    <code><a href="https://www.linkedin.com/in/iam-hasibul"><img height="30" src="assets/linkedin.svg"></a></code>
    <code><a href="https://www.facebook.com/iam.hasibul"><img height="30" src="assets/hackerrank.svg"></a></code>
-   <code><a href="http://t.me/iam_hasibul"><img height="40" src="assets/telegram.svg"></a></code>
+   <code><a href="http://t.me/iam_hasibul"><img height="30" src="assets/telegram.svg"></a></code>
    <code><a href="https://www.behance.net/iam_hasibul"><img height="30" src="assets/behance.svg"></a></code>
    <code><a href="https://dribbble.com/iam_hasibul"><img height="30" src="assets/dribbble.svg"></a></code>
    <code><a href="https://www.instagram.com/iam.hasibul"><img height="30" src="assets/instagram.svg"></a></code>
@@ -37,7 +36,7 @@
    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code>
    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"></code>
    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"></code>
-   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++"></code>
+   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++"></code>
    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code>
    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"></code>
    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="Php"></code>
@@ -47,12 +46,8 @@
 <div>
    <details>   
       <summary><b>:zap:Github Stats:</b></summary>
-
-      <!-- Github Readme Stats Credit: https://github.com/anuraghazra/github-readme-stats -->
       <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-hasibul&show_icons=true&locale=en&layout=compact" alt="iam-hasibul" /></p>
       <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=iam-hasibul&show_icons=true&locale=en" alt="iam-hasibul" /></p>
-
-      <!-- Github Readme Streak Stats Credit: https://github.com/DenverCoder1/github-readme-streak-stats -->
       <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-hasibul&" alt="iam-hasibul" /></p>
    </details>
 </div>
