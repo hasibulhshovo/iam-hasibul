@@ -9,8 +9,10 @@
 <!-- About -->
 <div align="left">
    <h2>About me:</h2>
-   <p>I am currently working at <a href="https://www.facebook.com/careerportalbd"><b>Career Portal.</b></a> I love creative things. I love to explore technologies and learn new things. I am interested in <b>Natural Language Processing (NLP), Computer Vision etc.</b> I am currently learning stuffs like <b>Python, Machine Learning etc.</b></p>
+   <p>I am currently working at <a href="https://www.facebook.com/careerportalbd"><b>Career Portal.</b></a> I love creative things. I love to explore technologies and learn new things. I am interested in <b>Natural Language Processing (NLP), Computer Vision, Generative adversarial networks (GANs) etc.</b> I am currently learning stuffs like <b>Python, Machine Learning etc.</b></p>
 </div>
+
+<br>
 
 <!-- Social Platforms -->
 <div>
@@ -18,7 +20,7 @@
    <code><a href="mailto:it.hhs19@gmail.com"><img height="30" src="assets/gmail.png"></a></code>
    <code><a href="https://www.facebook.com/iam.hasibul"><img height="30" src="assets/facebook.svg"></a></code>
    <code><a href="https://www.linkedin.com/in/iam-hasibul"><img height="30" src="assets/linkedin.svg"></a></code>
-   <code><a href="https://www.facebook.com/iam.hasibul"><img height="30" src="assets/hackerrank.svg"></a></code>
+   <code><a href="https://www.hackerrank.com/iam_hasibul"><img height="30" src="assets/hackerrank.svg"></a></code>
    <code><a href="http://t.me/iam_hasibul"><img height="30" src="assets/telegram.svg"></a></code>
    <code><a href="https://www.behance.net/iam_hasibul"><img height="30" src="assets/behance.svg"></a></code>
    <code><a href="https://dribbble.com/iam_hasibul"><img height="30" src="assets/dribbble.svg"></a></code>
