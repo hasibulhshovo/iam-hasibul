@@ -12,8 +12,6 @@
    <p>I am currently working at <a href="https://www.facebook.com/careerportalbd"><b>Career Portal.</b></a> I love creative things. I love to explore technologies and learn new things. I am interested in <b>Natural Language Processing (NLP), Computer Vision etc.</b> I am currently learning stuffs like <b>Python, Machine Learning etc.</b></p>
 </div>
 
-<br>
-
 <!-- Social Platforms -->
 <div>
    <h2>Connect with me:</h2>
@@ -43,13 +41,15 @@
 </div>
 
 <!-- Github Statistics -->
-<div>
-   <details>   
-      <summary><b>:zap:Github Stats:</b></summary>
-      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-hasibul&show_icons=true&locale=en&layout=compact" alt="iam-hasibul" /></p>
-      <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=iam-hasibul&show_icons=true&locale=en" alt="iam-hasibul" /></p>
-      <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-hasibul&" alt="iam-hasibul" /></p>
-   </details>
+<div>  
+   <h2>Github Stats:</h2>
+   <!-- Github Readme Streak Stats Credit: https://github.com/DenverCoder1/github-readme-streak-stats -->
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-hasibul&" alt="iam-hasibul" /></p>
+   
+   <!-- Github Readme Stats Credit: https://github.com/anuraghazra/github-readme-stats -->
+   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-hasibul&show_icons=true&locale=en" alt="iam-hasibul" /></p>
+   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-hasibul&show_icons=true&locale=en&layout=compact" alt="iam-hasibul" /></p>   
+
 </div>
 
 
