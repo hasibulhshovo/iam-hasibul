@@ -9,7 +9,7 @@
 <!-- About -->
 <div align="left">
    <h2>About me:</h2>
-   <p>I am currently working at <a href="https://www.facebook.com/careerportalbd"><b>Career Portal.</b></a> I love creative things. I love to explore technologies and learn new things. I am interested in <b>Natural Language Processing (NLP), Computer Vision, Generative adversarial networks (GANs) etc.</b> I am currently learning stuffs like <b>Python, Machine Learning etc.</b></p>
+   <p>I am passionate about learning the diversity of the Machine Learning field. I love creative things. I love to explore technologies and learn new stuffs. I am interested in <b>Natural Deep Learning, Computer Vision, Generative Adversarial Network (GAN) etc.</b> I am currently learning Machine Learning algorithms.</p>
 </div>
 
 <br>
