@@ -9,7 +9,7 @@
 <!-- About -->
 <div align="left">
    <h2>About me:</h2>
-   <p>I am passionate about learning the diversity of the Machine Learning field. I love creative things. I love to explore technologies and learn new stuffs. I am interested in <b>Natural Deep Learning, Computer Vision, Generative Adversarial Network (GAN) etc.</b> I am currently learning Machine Learning algorithms.</p>
+   <p>I am passionate about learning the diversity of the Python technology field. I love creative things. I love to explore new technologies and learn them. I have interest in <b>Natural Deep Learning, Computer Vision, Generative Adversarial Network (GAN) etc.</b> I am currently working on <b>Python-Odoo v13.</b></p>
 </div>
 
 <br>
@@ -17,24 +17,29 @@
 <!-- Social Platforms -->
 <div>
    <h2>Connect with me:</h2>
-   <code><a href="mailto:it.hhs19@gmail.com"><img height="30" src="assets/gmail.png"></a></code>
-   <code><a href="https://www.facebook.com/iam.hasibul"><img height="30" src="assets/facebook.svg"></a></code>
-   <code><a href="https://www.linkedin.com/in/iam-hasibul"><img height="30" src="assets/linkedin.svg"></a></code>
-   <code><a href="https://www.hackerrank.com/iam_hasibul"><img height="30" src="assets/hackerrank.svg"></a></code>
-   <code><a href="http://t.me/iam_hasibul"><img height="30" src="assets/telegram.svg"></a></code>
-   <code><a href="https://www.behance.net/iam_hasibul"><img height="30" src="assets/behance.svg"></a></code>
-   <code><a href="https://dribbble.com/iam_hasibul"><img height="30" src="assets/dribbble.svg"></a></code>
-   <code><a href="https://www.instagram.com/iam.hasibul"><img height="30" src="assets/instagram.svg"></a></code>
-   <code><a href="https://twitter.com/iam_hasibul"><img height="30" src="assets/twitter.svg"></a></code>
+   <code><a href="mailto:it.hhs19@gmail.com" target="#"><img height="30" src="assets/gmail.png"></a></code>
+   <code><a href="https://www.facebook.com/iam.hasibul" target="#"><img height="30" src="assets/facebook.svg"></a></code>
+   <code><a href="https://www.linkedin.com/in/iam-hasibul" target="#"><img height="30" src="assets/linkedin.svg"></a></code>
+   <code><a href="https://www.hackerrank.com/iam_hasibul" target="#"><img height="30" src="assets/hackerrank.svg"></a></code>
+   <code><a href="http://t.me/iam_hasibul" target="#"><img height="30" src="assets/telegram.svg"></a></code>
+   <code><a href="https://www.behance.net/iam_hasibul" target="#"><img height="30" src="assets/behance.svg"></a></code>
+   <code><a href="https://dribbble.com/iam_hasibul" target="#"><img height="30" src="assets/dribbble.svg"></a></code>
+   <code><a href="https://www.instagram.com/iam.hasibul" target="#"><img height="30" src="assets/instagram.svg"></a></code>
+   <code><a href="https://twitter.com/iam_hasibul" target="#"><img height="30" src="assets/twitter.svg"></a></code>
 </div>
 
 <!-- Languages & Tools -->
 <div>
    <h2>Languages & Tools:</h2>
    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
+   <code><img height="30" src="assets/odoo.png" alt="Odoo"></code>
+   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL"></code>
    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code>
    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code>
    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"></code>
+   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code"></code>
+   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal"></code>
+   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux"></code>
    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"></code>
    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++"></code>
    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code>
